@@ -67,6 +67,8 @@
 1. 点击右上角 "Fork" 按钮
 2. 等待Fork完成  
 3. 进入你的Fork仓库
+4. 删除Fork后仓库中的version_cache.json文件！！！
+5. 启用Workflow Read and write 路径：仓库Settings → Actions → General → Workflow permissions = Read and write
 ```
 
 ### **🔑 Step 2: 配置Secrets**
@@ -92,7 +94,7 @@
 1. Telegram搜索 @BotFather → /newbot
 2. 设置名称 → 获取 Token
 3. 给Bot发消息 → https://api.telegram.org/bot{Token}/getUpdates  
-4. 复制 chat.id → 配置完成
+4. 复制 chat.id（不是BOT_TOKEN！！！） → 配置完成
 ```
 
 ### **▶️ Step 3: 立即测试**
