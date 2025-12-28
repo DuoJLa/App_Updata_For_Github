@@ -1,4 +1,4 @@
-# 通过部署在Github上的自动检查苹果App Store的应用更新
+# 部署在Github上的自动检查苹果App Store应用更新
 
 自动监控App Store应用更新，支持Bark和Telegram Bot推送。
 
