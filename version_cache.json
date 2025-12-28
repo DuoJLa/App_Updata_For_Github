@@ -1,0 +1,79 @@
+{
+  "414478124": {
+    "version": "8.0.67",
+    "app_name": "微信",
+    "region": "cn",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/5b/f5/8c5bf5c0-4d01-847e-32ec-92f543cba8ab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:54.461459"
+  },
+  "444934666": {
+    "version": "9.2.55",
+    "app_name": "QQ",
+    "region": "cn",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/67/4b/13674b33-b3fb-522c-8217-540bba81b530/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:54.500794"
+  },
+  "1373567447": {
+    "version": "3.3.7",
+    "app_name": "Loon",
+    "region": "us",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/2a/ad/fc2aad49-1756-30c4-3b20-a08e03614759/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:54.627714"
+  },
+  "686449807": {
+    "version": "12.2.4",
+    "app_name": "Telegram Messenger",
+    "region": "us",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/3e/8f/9d3e8fc3-087c-902f-f3a4-18d224a4460b/Telegram-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:54.705960"
+  },
+  "6477489729": {
+    "version": "1.2025.4972302",
+    "app_name": "Google Gemini",
+    "region": "us",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/98/48/dc9848f3-af7a-a934-d2cb-36b3725dcfe2/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:54.783791"
+  },
+  "6448311069": {
+    "version": "1.2025.350",
+    "app_name": "ChatGPT",
+    "region": "us",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/82/d9/3982d95c-b526-da87-584a-f5242b18959c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:54.853875"
+  },
+  "1047223162": {
+    "version": "4.5.14",
+    "app_name": "AdGuard  — adblock&privacy",
+    "region": "us",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/ba/2b/ebba2b74-91dd-414e-5811-a4da9a389252/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:54.926969"
+  },
+  "422689480": {
+    "version": "6.0.251201",
+    "app_name": "Gmail - Google 打造的电子邮件服务",
+    "region": "cn",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/b1/32/1eb132ef-8820-57dc-3746-8c695835fa4c/logo_gmail_2020q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220-0.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:54.983521"
+  },
+  "1618175312": {
+    "version": "3.0.0",
+    "app_name": "微信输入法",
+    "region": "cn",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/78/f0/b778f064-0de6-ee95-9f61-3df87478d510/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:55.018051"
+  },
+  "1142110895": {
+    "version": "37.2.0",
+    "app_name": "抖音",
+    "region": "cn",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/b5/ab/49b5abed-c9f9-77bb-c52c-722b3b4c034e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:55.056167"
+  },
+  "544007664": {
+    "version": "20.50.9",
+    "app_name": "YouTube",
+    "region": "cn",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/11/c7/1411c79b-9a1f-78b3-8a05-8416cf7c7bfe/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg",
+    "updated_at": "2025-12-28T14:23:55.093282"
+  }
+}
