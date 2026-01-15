@@ -1,10 +1,10 @@
 {
   "414478124": {
-    "version": "8.0.67",
+    "version": "8.0.68",
     "app_name": "微信",
     "region": "中国",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/5b/f5/8c5bf5c0-4d01-847e-32ec-92f543cba8ab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
-    "last_check": "2026-01-13T09:38:20.305401"
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/51/c5/4151c5ec-b710-ba98-bac3-3c99fe9eb4f6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
+    "last_check": "2026-01-15T02:07:28.409172"
   },
   "444934666": {
     "version": "9.2.60",
@@ -28,11 +28,11 @@
     "last_check": "2026-01-13T09:38:20.789655"
   },
   "6477489729": {
-    "version": "1.2026.0070601",
+    "version": "1.2026.0170001",
     "app_name": "Google Gemini",
     "region": "美国",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/99/75/f9997565-6f29-8e46-7937-bae299689969/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.jpg",
-    "last_check": "2026-01-13T09:38:21.034656"
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/7c/fb/d07cfb58-0b88-5a42-57e9-59f35cc34cce/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.jpg",
+    "last_check": "2026-01-15T02:07:28.740523"
   },
   "6448311069": {
     "version": "1.2025.358",
